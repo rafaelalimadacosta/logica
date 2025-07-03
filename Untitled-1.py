@@ -1,4 +1,6 @@
-nome = "Rafaela"
-idade = 17
+a = 8
+b = 2 
 
-print(f"meu nome é {nome} e tenho {idade} anos!")
+soma = a + b 
+
+print(f"o resultado da soma é {soma}")
